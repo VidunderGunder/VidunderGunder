@@ -1,1 +1,1 @@
-![CV](images/cv-min.png)
+![CV](images/cv-en.png)
